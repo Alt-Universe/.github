@@ -1,14 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alt-Universe/.github/main/profile/assets/Alt-Evades.svg" width="500">
+  <img src="https://raw.githubusercontent.com/Alt-Universe/.github/main/profile/assets/icon.png" width="150">
+  <h1>Alt-Evades</h1> 
+  
+  <p style="font-size: 20px">is fangame of <a href="https://evades.io/">Evades.io</a> game, with new things and ideas.</p>
 
-  <p>Alternative version of <a href="https://evades.io/">Evades.io</a>, or more simply put, a fan version for fans</p>
-  <p>The project was also created with a practical purpose, to learn and practice creating web games</p>
+  <h2>General concept of ​​game</h2>
+  <p style="font-size: 16px;">It's multiplayer cooperative roguelike webgame, where you evade enemies, save friends, upgrade stats & abilities, and unlock new heroes</p>
 
-  <p>Used technologies:</p>
-  <img src="https://raw.githubusercontent.com/Alt-Universe/.github/main/profile/assets/icons/typescript.svg" width="50" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/Alt-Universe/.github/main/profile/assets/icons/vuedotjs.svg" width="50" " alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/Alt-Universe/.github/main/profile/assets/icons/nestjs.svg" width="50" alt="NestJS"/>
+  <h2>Other</h2>
+  <p style="font-size: 16px;">The game has been in development for 2 years. Development is still underway, but very slowly</p>
 
-  <p>Project birthday: Aug 23, 2022</p>
-  <p>Project age: >1 year</p>
+  <!-- <h2>Links</h2>
+  <p style="font-size: 16px;">
+    <a href="">Client</a> • <a href="">Server</a> • <a href="">Service</a>
+  </p> -->
+
 </div>
